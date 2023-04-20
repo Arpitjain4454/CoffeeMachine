@@ -29,7 +29,3 @@ The CoffeeMachine console app demonstrates several OOPs concepts, including:
 To run the CoffeeMachine console app, you will need a Java IDE (e.g. Eclipse, IntelliJ, NetBeans) installed on your computer. You can then create a new Java class and copy the code from the CoffeeMachine.java file into your class.
 
 Once you have the code set up, you can run the program and interact with the coffee machine using the commands provided in the console interface.
-
-## Contributors
-
-This project was created by [Your Name]. If you have any suggestions or feedback, feel free to contact me at [Your Email].
